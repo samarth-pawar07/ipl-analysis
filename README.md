@@ -11,11 +11,14 @@ Advanced KPIs like total runs, strike rate, economy rate, and win percentage
 Filters and slicers for season, team, and player selection
 Drill-down and drill-through capabilities
 Dynamic titles and tooltips for better insights
+
 🛠️ Tools & Technologies
 Power BI Desktop
 Power Query (Data Cleaning & Transformation)
 DAX (Data Analysis Expressions)
 Data Modeling (Star Schema)
+
+
 📈 Insights Generated
 Top batsmen and bowlers analysis
 Team performance comparison
@@ -23,6 +26,8 @@ Toss impact on match results
 Venue-based performance trends
 Win/loss patterns and match outcomes
 Season-wise performance trends
+
+
 🚀 Highlights
 Fully dynamic dashboard with real-time interaction
 Clean and user-friendly UI/UX design
